@@ -5,4 +5,4 @@ Using the multilingual city-state of Singapore as a starting point, we collected
 
 We publish the corpus with rich metadata (to be found in `0_dataset/1_dataset/`),  an automatic English translation (`0_dataset/2_dataset_translated/`) as well as additional unlabelled data for domain adaptation (`0_dataset/3_unlabelled_data/`). More information on the dataset and its creation can be found in the README file located in the `0_dataset/` directory.
 
-An analysis of the dataset and experiments conducted using the newly collected data can be found in `1_experiments/`. Due to their size, we do not include the full set of over 3M reddit comments or trained model files in this repository. Please contact janosch@rewire.online for access to these files. 
+An analysis of the dataset and experiments conducted using the newly collected data can be found in `1_experiments/`.
